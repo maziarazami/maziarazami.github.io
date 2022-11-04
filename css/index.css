@@ -1,0 +1,180 @@
+body {
+    height: auto;
+    width: 100%;
+}
+body .nav-navbar1 div.container-fluid div.collapse ul.navbar-nav li.nav-item a.nav-link{
+    color: #00095b;
+    
+}
+body .nav-navbar1{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 35px;
+    color:#f2f2f2;
+}
+.m1{
+    display: flex;
+    justify-content: end;
+    margin-left: 800px;
+    height: 35;
+}
+.m3{
+    margin-right: 50px; 
+    margin-left: 50px;
+    margin-top: 0px; 
+    padding-top: 0;
+}
+body nav.m3 div.nav-fo div.nav-footer ul.nav-footer1 li.nav-footer2 a.nav-footer3{
+    color: #00095b;
+}
+.logopic{
+    border-radius: 40px;
+}
+.m5{
+    margin-left: 450px;
+}
+.first-image-car {
+    height: calc(540px + 0.5vw);
+    
+}
+
+.second-image-car {
+    height: calc(540px + 0.5vw);
+}
+
+
+.Change-Perceptions h2 {
+    font-size: calc(28px + 0.5vw);
+    font-family: 'fordngbs-antenna-re', arial, helvetica, sans-serif;
+    color: #00095b;
+}
+
+.Change-Perceptions p {
+    font-size: calc(16px + 0.5vw);
+    font-family: 'fordngbs-antenna-re', arial, helvetica, sans-serif;
+    color: #5f5f5f;
+}
+/* hover color #286090 */
+.FordElvLivingButton {
+    width: 250px;
+    height: 45px;
+    background-color: #00095b;
+    line-height: 45px;
+    font-size: calc(16px + 0.5vw);  
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: all 300ms linear 0s;
+  transform: scale(1),
+ }
+.FordElvLivingButton:hover{
+    background-color: #083dda;
+   transform: scale(1.05);
+}
+.text-1{
+    color: #00095b;
+    justify-content:between;
+    margin-top: 10px;
+    
+}
+.FordshopaccessoriesButton{
+    width: 250px;
+    height: 45px;
+    background-color: #00095b;
+    line-height: 45px;
+    font-size: calc(16px + 0.5vw);  
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: all 300ms linear 0s;
+  transform: scale(1),
+}
+.FordshopaccessoriesButton:hover{
+    background-color: #083dda;
+    transform: scale(1.05);
+}
+
+.Fordalexabuilt-inButton{
+    width: 250px;
+    height: 45px;
+    background-color: #00095b;
+    line-height: 45px;
+    font-size: calc(16px + 0.5vw);  
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: all 300ms linear 0s;
+  transform: scale(1),
+
+}
+.Fordalexabuilt-inButton:hover{
+    background-color: #083dda;
+    transform: scale(1.05);
+}
+.fordbronco{
+    text-align: center;
+    font-size: 19px;
+}
+.FordfindButton{
+    width: 250px;
+    height: 45px;
+    background-color: #00095b;
+    line-height: 45px;
+    font-size: calc(16px + 0.5vw);  
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: all 300ms linear 0s;
+  transform: scale(1),
+}
+.FordfindButton:hover{
+    background-color: #083dda;
+    transform: scale(1.05);
+}
+.newh2{
+    text-align: center;
+    margin-top: 15px;
+    color: #00095b;
+}
+.pnew{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.newh3{
+    text-align: center;
+    margin-top: 155px;
+    color: #00095b;
+}
+.footer-footer1{
+    background: #00142e;
+}
+.footer-footer1 .card-body .footer-text{
+    color: #f2f2f2;
+}
+body nav.footer-footer2 div.container-fluid{
+    background:#00095b ;
+    height: 100px;
+}
+.footer2-1{
+    margin-left: 550px;
+}
+.form-control{
+    margin-left: 200px;
+}
+.list-group{
+    background:#00142e; 
+}
+.footer-end1{
+    background:#00142e; 
+    display: flex;
+    justify-content: space-around;
+  
+}
+body div.footer-footer1 div.footer-end1 ul.list-group li.list-group-item{
+    background:#00142e; 
+}
+.k1{
+    margin-right: 190px;
+}
+@media all and (max-width:575px){}
+@media all and (min-width:576px) and (max-width:767px){}
+@media all and (min-width:768px) and (max-width:991px){}
+@media all and (min-width:992px) and (max-width:1199px){}
+@media all and (min-width:1200px) and (max-width:1399px){}
